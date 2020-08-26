@@ -2,7 +2,7 @@
 
 LICENSE: [MIT](./license.md)
 
-![Изображение недоступно](./assets\gitlogo.png)
+![Изображение недоступно](./assets/gitlogo.png)
 
 ---
 

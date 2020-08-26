@@ -1,2 +1,7 @@
 .vscode
 *.sln
+.idea
+*.ntvs*
+*.njsproj
+*.sw?
+*.suo
